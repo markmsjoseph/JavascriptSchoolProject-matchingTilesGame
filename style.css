@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+
+
+#grid{
+
+  	width:800px;
+  	height:540px;
+  	padding:24px;
+  	margin:0px auto;
+   border-radius: 25px;
+}
